@@ -1,6 +1,6 @@
 # Informationen
 
-[Was ist passiert?](https://www.tagesschau.de/newsticker/liveblog-hochwasser-103.html#Damm-der-Rur-in-Ophoven-gebrochen)
+[Was ist passiert?](https://www.tagesschau.de/newsticker/liveblog-hochwasser-103.html)
 
 
 ## Spendenkonten:
