@@ -2,7 +2,8 @@
 
 [Was ist passiert?](https://www.tagesschau.de/newsticker/liveblog-hochwasser-103.html#Damm-der-Rur-in-Ophoven-gebrochen)
 
-### Spendenkonten
+
+### Spendenkonten:
 
 ### Spendenkonto für Reinland-Pfalz:
 Empfänger: Landeshauptkasse Mainz
