@@ -1,6 +1,6 @@
 # Informationen
 
-[Was ist passiert?](https://www.tagesschau.de/newsticker/liveblog-hochwasser-103.html)
+[Was ist passiert?](https://www.tagesschau.de/newsticker/liveblog-hochwasser-105.html#Pegel-in-Passau-steigen---Polizei-schleppt-vorsorglich-Autos-ab)
 
 
 ## Spendenkonten:
