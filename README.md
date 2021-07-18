@@ -20,3 +20,12 @@ IBAN: DE62 3702 0500 0000 1020 30
 Spenden-Stichwort: ARD / Hochwasser
 ```
 [Hier geht es zum Online-Spendenformular](https://www.aktion-deutschland-hilft.de/de/spenden/spenden/)
+
+### Aktionsbündnis Katastrophenhilfe:
+```bash
+Commerzbank
+IBAN: DE65 100 400 600 100 400 600
+BIC: COBADEFFXXX
+Stichwort: ZDF Hochwasser Deutschland
+```
+[Online-Spenden](https://www.aktionsbuendnis-katastrophenhilfe.de/jetzt-spenden)
